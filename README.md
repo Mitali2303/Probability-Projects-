@@ -21,7 +21,8 @@ Compared variations by changing parameters.
 Also plotted CDFs of previously studied discrete distributions.
 
 **3. Otsu’s Thresholding on Noisy Images**  
-🔗 [Colab Notebook](https://colab.research.google.com/drive/1A-nLEqG4AGktBzPc62EKFPVdW9qcOlFY?usp=sharing)  
+🔗 [Colab Notebook](https://colab.research.google.com/drive/1A-nLEqG4AGktBzPc62EKFPVdW9qcOlFY?usp=sharing) 
+
 Implemented Otsu’s method for binarizing grayscale images.
 
 Added Gaussian noise with varying variances and studied its effect on thresholding.
