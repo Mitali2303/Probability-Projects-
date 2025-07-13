@@ -65,7 +65,7 @@ Asked and answered 10+ insightful statistical questions using visualization and 
 
 Applied concepts like mean, variance, correlation, and grouping in practice.
 
-**8. Histogram Matching in Images**
+**8. Histogram Matching in Images**  
 🔗 [Colab Notebook](https://colab.research.google.com/drive/19Mw0Px4gwoT0PXl1m2yzL2_U9lgnXQpZ?usp=sharing)
 
 Implemented Histogram Matching between two grayscale images.
