@@ -3,7 +3,8 @@ This repository contains several hands-on projects completed under the PSDV cour
 
 📂**Project List**  
 **1. PMF of Discrete Random Variables**  
-🔗 Colab Notebook
+🔗 [Colab Notebook](https://colab.research.google.com/drive/1_9ZhbXfZMht4br1305vc7r64l0zGGBMV?usp=sharing)
+
 
 Plotted PMFs for: Discrete Uniform, Bernoulli, Binomial, Poisson, and Geometric distributions.
 
