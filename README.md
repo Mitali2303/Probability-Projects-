@@ -112,8 +112,7 @@ Pandas
 OpenCV
 
 Scikit-learn (for PCA)
-
-    ***
+***
 
 **🧠 Concepts Covered**  
 Discrete and Continuous Distributions (PMF, PDF, CDF)
