@@ -12,7 +12,7 @@ Demonstrated parameter variations and compared the outcomes visually.
 
 Showed the convergence of Binomial to Poisson for large n and small p.
 
-    
+***
 
 **2. PDF and CDF of Continuous Random Variables**  
 🔗 [Colab Notebook](https://colab.research.google.com/drive/11FZGlG-aC0dTO52yc35LkbHEAcdBfTQM?usp=sharing)  
@@ -23,7 +23,7 @@ Compared variations by changing parameters.
 
 Also plotted CDFs of previously studied discrete distributions.
 
-    
+*** 
 
 **3. Otsu’s Thresholding on Noisy Images**  
 🔗 [Colab Notebook](https://colab.research.google.com/drive/1A-nLEqG4AGktBzPc62EKFPVdW9qcOlFY?usp=sharing) 
@@ -33,8 +33,8 @@ Implemented Otsu’s method for binarizing grayscale images.
 Added Gaussian noise with varying variances and studied its effect on thresholding.
 
 Used image datasets for visual demonstrations.
-
-    
+***
+  
 
 **4. Joint PMF, Marginals, and Expectation**  
 🔗 [Colab Notebook](https://colab.research.google.com/drive/110T47LI74eau8iDwV-cC0u1RU34-S-0u?usp=sharing)  
@@ -45,8 +45,8 @@ Computed and visualized Joint and Marginal PMFs/CDFs.
 
 Calculated expectations: E[XY] and E[(X−E[X])(Y−E[Y])].
 
+***
     
-
 **5. Descriptive Statistics on the IRIS Dataset**  
 🔗 [Colab Notebook](https://colab.research.google.com/drive/1iqP7ccyYn4XQJEE0_zuO1gq8iR7Sd5hC?usp=sharing)  
 
@@ -56,7 +56,7 @@ Computed pairwise correlation coefficients.
 
 Repeated analysis per species to highlight intra-species variation.
   
-  
+ *** 
 
 **6. Principal Component Analysis (PCA) on the IRIS Dataset**  
 🔗 [Colab Notebook](https://colab.research.google.com/drive/1vXgh79KGFEazOO4334BQY9OnAcqwOGIl?usp=sharing)  
@@ -66,7 +66,8 @@ Computed covariance matrix and PCA components.
 Reduced dimensions from 4D to 2D and 3D.
 
 Visualized clusters using color-coded scatter plots per species.
-  
+
+  ***
   
 
 **7. ATP Match Data Statistical Analysis**  
@@ -78,7 +79,8 @@ Asked and answered 10+ insightful statistical questions using visualization and 
 
 Applied concepts like mean, variance, correlation, and grouping in practice.
   
-  
+  ***
+
 
 **8. Histogram Matching in Images**  
 🔗 [Colab Notebook](https://colab.research.google.com/drive/19Mw0Px4gwoT0PXl1m2yzL2_U9lgnXQpZ?usp=sharing)  
@@ -92,7 +94,8 @@ Developed the algorithm from scratch without using advanced image processing lib
 Applied the method on image pairs from the provided dataset.
 
 Visualized the transformation before and after matching intensity distributions.
-  
+
+  ***
   
 
 **🛠️ Tools & Libraries Used**  
@@ -110,7 +113,7 @@ OpenCV
 
 Scikit-learn (for PCA)
 
-    
+    ***
 
 **🧠 Concepts Covered**  
 Discrete and Continuous Distributions (PMF, PDF, CDF)
